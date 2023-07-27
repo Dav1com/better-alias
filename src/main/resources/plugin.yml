@@ -1,0 +1,7 @@
+name: BetterAlias
+version: 1.0.0
+main: cl.davicom.minecraft.BetterAlias.Plugin
+description: An example plugin
+author: David Ibáñez Valenzuela
+website: https://github.com/Dav1com/better-alias
+api-version: '1.20'
